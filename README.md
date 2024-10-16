@@ -41,7 +41,7 @@ Test Set: Used to evaluate the performance of the model.
 
 1. CLone the repository
    ```bash
-   git clone https://github.com/yourusername/Fake-News-Prediction.git
+   git clone https://github.com/razeen14/Fake-News-Prediction.git
    ```
    
 2. Navigate to the project directory:
